@@ -2,4 +2,8 @@ left
 right 
 up
 down
+3
+3
+3
+3
 
